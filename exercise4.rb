@@ -9,3 +9,4 @@ def word(my_word)
 end
 
 puts word("gestalt")
+puts word("gestaltier")
