@@ -10,7 +10,7 @@
 # puts negative?(12)
 
 def is_even?(number)
-  if number % 2
+  if number % 2 == 0
     return true
   end
   return false
